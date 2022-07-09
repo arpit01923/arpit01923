@@ -1,5 +1,5 @@
-<h1 align="center">Namasta 🙏🏼, I'm Shubham Bajaj</h1>
-<h3 align="center">Reader focused on fundamentals. || Writer focused on taking notes.</h3>
+<h1 align="center">Namaste 🙏🏼, I'm Arpit</h1>
+<h3 align="center"> Front End Dev.</h3>
 
 - 🔭 I’m currently working on [Portfolio Website](http://arpit-portfolio.netlify.app/)
 
