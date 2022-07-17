@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://vany02.hashnode.dev/](https://vany02.hashnode.dev/)
 
-- 💬 Ask me about **html, css, javascript, reactjs**
+- 💬 Ask me about **html, css, javascript, reactjs, redux toolkit**
 
 - 📫 How to reach me **arpitkumar01923@gmail.com**
 
