@@ -36,7 +36,5 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">
 </p>
 </p>
