@@ -40,7 +40,3 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">
 </p>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit01923&show_icons=true&locale=en" alt="arpit01923" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit01923&" alt="arpit01923" /></p>
