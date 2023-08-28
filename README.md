@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Testing and DSA concepts**
 
-- 👨‍💻 All of my projects are available at [https://arpit-portfolio.netlify.app/](https://arpit-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arpit-portfoliyo.netlify.app/](https://arpit-portfoliyo.netlify.app/)
 
 - 📝 I regularly write articles on [https://vany02.hashnode.dev/](https://vany02.hashnode.dev/)
 
