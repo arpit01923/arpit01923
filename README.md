@@ -36,5 +36,20 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Less-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pinia-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48">
 </p>
 </p>
